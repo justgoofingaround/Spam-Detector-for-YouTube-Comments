@@ -1,4 +1,4 @@
-# PAN-Card-Tampering-Detection #
+# Spam-Detector-for-YouTube-Comments #
 
 UCS757 - Building Innovative Systems <br>
 Project - 1 <br>
