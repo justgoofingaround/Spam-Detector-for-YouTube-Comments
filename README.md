@@ -26,11 +26,11 @@ Output-2
 </br>
 ### Summary :<br/> ###
 
--Having a proper dataset which provides us the spam comments from YouTube helps us in training those dataset and then testing with our own sample. Firstly, data preprocessing is done followed by creating a bag of words model and then finally training and testing using Multinomial Naive Bayes which gave an accuracy of around 94%. <br>
+- Having a proper dataset which provides us the spam comments from YouTube helps us in training those dataset and then testing with our own sample. Firstly, data preprocessing is done followed by creating a bag of words model and then finally training and testing using Multinomial Naive Bayes which gave an accuracy of around 94%. <br>
 
--With the help of flask I developed the structure of our web application and deployed it on a cloud platform known as Heroku.<br>
+- With the help of flask I developed the structure of our web application and deployed it on a cloud platform known as Heroku.<br>
 
--Finally we were able to distingiush a comment from YouTube is a SPAM or NOT SPAM (HAM). <br>
+- Finally we were able to distingiush a comment from YouTube is a SPAM or NOT SPAM (HAM). <br>
 
 ### Novelty :<br/> ###
 ●	Since, YouTube is considered to be 2nd largest search engine where any inappropriate messages/comments can disturb the user experience. Therefore, our project serves a provides a cakewalk for such problem.<br>
