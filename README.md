@@ -33,6 +33,6 @@ Output-2
 - Finally we were able to distingiush a comment from YouTube is a SPAM or NOT SPAM (HAM). <br>
 
 ### Novelty :<br/> ###
-●	Since, YouTube is considered to be 2nd largest search engine where any inappropriate messages/comments can disturb the user experience. Therefore, our project serves a provides a cakewalk for such problem.<br>
+-	Since, YouTube is considered to be 2nd largest search engine where any inappropriate messages/comments can disturb the user experience. Therefore, our project serves a provides a cakewalk for such problem.<br>
 
-● This project can be made as a base for various other fields where people wants to get rid of the spam such as mails, messages, etc. <br>
+- This project can be made as a base for various other fields where people wants to get rid of the spam such as mails, messages, etc. <br>
